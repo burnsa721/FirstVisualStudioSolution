@@ -1,0 +1,19 @@
+﻿body {
+    text-align: center;
+}
+
+#top {
+    background-color: #ccc;
+    padding: 1em
+}
+
+#top h1 {
+    color: #ff0;
+}
+
+#top p {
+    color: red;
+    font-weight: bold;
+}
+
+#
